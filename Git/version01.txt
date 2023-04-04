@@ -3,3 +3,5 @@ This is first feature of our application
 This is bug fix in development branch
 
 This is gadbad code
+
+This feature will gadbad everything from now.
